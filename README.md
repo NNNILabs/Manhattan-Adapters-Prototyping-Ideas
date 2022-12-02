@@ -10,7 +10,7 @@ Some circuits can be prototyped on a solderless breadboard, and some circuits ca
 - SOT-32 breakouts for multiple SOT-32 transistors/regulators.
 - Each board has castellated "anchor" pads that can be connected to base board ground plane.
 ## Really, why?
-This project was inspired by [Mark's](https://github.com/macaba) (unreleased) prototyping system for analog circuits. Modifications include not segmenting the main planes and a different form-factor.
+This project was inspired by [Mark's](https://github.com/macaba) (unreleased) prototyping system for analog circuits. Modifications include not segmenting the main planes and a different form factor.
 ## And?
 Connections between components are meant to be made using enamelled copper wire soldered directly to breakout pads or the ground plane for low-inductance, low-capacitance wiring. Since this is basically a Manhattan prototyping, limitations apply.
 ## Details?
