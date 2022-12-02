@@ -12,7 +12,7 @@ Some circuits can be prototyped on a solderless breadboard, and some circuits ca
 ## Really, why?
 This project was inspired by [Mark's](https://github.com/macaba) (unreleased) prototyping system for analog circuits. Modifications include not segmenting the main planes and a different form factor.
 ## And?
-Connections between components are meant to be made using enamelled copper wire soldered directly to breakout pads or the ground plane for low-inductance, low-capacitance wiring. Since this is basically a Manhattan prototyping, limitations apply.
+Connections between components are meant to be made using enamelled copper wire soldered directly to breakout pads or the ground plane for low-inductance, low-capacitance wiring. Since this is basically Manhattan prototyping, limitations apply.
 ## Details?
 Boards so far:
 - Base board (100mm x 75mm)
