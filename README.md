@@ -1,4 +1,5 @@
 # Analog Prototyping System
+![Base board](https://github.com/NNNIIndia/Analog-Prototyping-System/blob/main/Resources/Base%20Board.png)
 ## What?
 A modular prototyping platform for precision and high-speed analog circuits.
 ## Why?
