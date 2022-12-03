@@ -89,52 +89,6 @@
 
   (net 0 "")
 
-  (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (layer "F.Cu")
-    (tedit 638BBBDB) (tstamp ca005791-d5b9-4289-baa1-93adaf2a4877)
-    (at 152.527 101.6)
-    (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-    (tags "SOIC SO")
-    (attr smd)
-    (fp_text reference "REF**" (at 0 -3.4) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9aee7680-2488-4fda-ac19-456f7cc341eb)
-    )
-    (fp_text value "SOIC-8_3.9x4.9mm_P1.27mm" (at 0 3.4) (layer "F.Fab")
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fb7d5824-8a41-4f93-9435-e77fea355f98)
-    )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-      (effects (font (size 0.98 0.98) (thickness 0.15)))
-      (tstamp 6c4f0070-6c68-4c3f-9ec0-e09ddbf58a86)
-    )
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm" (layer "B.Cu")
-    (tedit 638BBE1D) (tstamp a9f39d6a-eceb-4ece-98c8-e2b7064cb866)
-    (at 152.4 101.6 180)
-    (descr "MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-    (tags "MSOP SO")
-    (attr smd)
-    (fp_text reference "REF**" (at 0 2.45) (layer "B.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 21994569-c4fd-4799-b6d0-4374ee4de28b)
-    )
-    (fp_text value "MSOP-8_3x3mm_P0.65mm" (at 0 -2.45) (layer "B.Fab")
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 836a830b-5679-4bd9-b331-6d9d3be0f05d)
-    )
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8_3x3mm_P0.65mm.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
   (gr_rect (start 143.383 93.853) (end 161.417 109.22) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp a3879a1b-bdf7-4c6f-afae-4c1dd06edfbf))
 
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 35d77fbf-1402-4997-bb9c-0c39024b9f07) (hatch edge 0.508)
