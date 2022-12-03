@@ -10,5 +10,5 @@ While there are a wide range of prototyping aids available, they are not always 
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Passive.png" height=250 align="center">
 - SOT-23 adapter: Fits four SOT-23 packages. Since the top-center pin is usually used to dissipate power, its trace is larger than the other two pins. With some creativity in orientation and placement, other packages like SOT-89 and SOT-223 can be soldered (second picture). 
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23.png" height=250 align="center">
-<img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23%20Creative.png" height=250 align="center">
+<img align="center" src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23%20Creative.png" height=250>
 - SOIC/MSOP-20 adapter: For use with most common SOIC/MSOP footprints up to SOIC/MSOP-20.
