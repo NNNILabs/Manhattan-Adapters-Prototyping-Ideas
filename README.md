@@ -26,4 +26,8 @@ While there are a wide range of prototyping aids available, they are not always 
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23%20Creative.png" height=250>
 </p>
 
-- SOIC/MSOP-20 adapter: For use with most common SOIC/MSOP footprints up to SOIC/MSOP-20.
+- SOIC/MSOP-20 adapter: For use with most common SOIC/MSOP footprints up to SOIC/MSOP-20. Solder mask is left on some sections of the board to facilitate easier soldering and prevent unwanted shorts near fine-pitch traces.
+
+<p align="center">
+<img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOIC20%2BMSOP20.png" height=250>
+</p>
