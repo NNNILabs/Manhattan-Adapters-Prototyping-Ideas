@@ -9,8 +9,14 @@ While there are a wide range of prototyping aids available, they are not always 
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOIC%2BMSOP.png" height=250>
 </p>
 - 4x Passive adapter: Traces are arranged in such a way as to fit passive components of size 1206 and below, series/parallel connections are possible.
+<p align="center"> 
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Passive.png" height=250>
+</p>
 - SOT-23 adapter: Fits four SOT-23 packages. Since the top-center pin is usually used to dissipate power, its trace is larger than the other two pins. With some creativity in orientation and placement, other packages like SOT-89 and SOT-223 can be soldered (second picture). 
+<p align="center"> 
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23.png" height=250>
+</p>
+<p align="center">   
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23%20Creative.png" height=250>
+</p>
 - SOIC/MSOP-20 adapter: For use with most common SOIC/MSOP footprints up to SOIC/MSOP-20.
