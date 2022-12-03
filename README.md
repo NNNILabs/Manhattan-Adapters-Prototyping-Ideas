@@ -1,22 +1,9 @@
-# Analog Prototyping System
-![Base board](https://github.com/NNNIIndia/Analog-Prototyping-System/blob/main/Resources/Base%20Board.png)
-## What?
-A modular prototyping platform for precision and high-speed analog circuits.
-## Why?
-Some circuits can be prototyped on a solderless breadboard, and some circuits can be made on perfboard. But both these prototyping methods lack a low-impedance ground plane, which can affect performance. The base board of this system consists of uninterrupted ground planes on both sides, and inner power planes broken out through pin headers. 
-## Layout?
-- Base board (in Eurocard form factor) with exposed ground planes on both sides and four internal planes (split over two layers) broken out using pin headers placed in a grid across the plane.
-- IC boards including: SOIC-8 breakout with single-sided pads to solder wires to and component footprints on and across all pins with appropriate decoupling footprints to fit most standard op-amp/comparator/IC pinouts. 
-- Passive boards including: 4- and 8- component breakouts for parts 1206 or smaller.
-- SOT-32 breakouts for multiple SOT-32 transistors/regulators.
-- Each board has castellated "anchor" pads that can be connected to base board ground plane.
-## Really, why?
-This project was inspired by [Mark's](https://github.com/macaba) (unreleased) prototyping system for analog circuits. Modifications include not segmenting the main planes and a different form factor.
-## And?
-Connections between components are meant to be made using enamelled copper wire soldered directly to breakout pads or the ground plane for low-inductance, low-capacitance wiring. Since this is basically Manhattan prototyping, limitations apply.
-## Details?
-Boards so far:
-- Base board (100mm x 75mm)
-- SOIC-8 Breakout with passives
-- 8-component breakout
-- SOT-32 breakout
+# Manhattan Adapters & Prototyping Ideas
+## Introduction
+Prototyping precision and high-speed analog circuits on breadboards, perfboard or stripboard is impractical and performance falls victim to parasitics. The Manhattan prototyping style is a possible solution, and involves "dead-bugging" components on copper-clad board and making connections using component leads and tinned or enamelled wire. Nodes are connected mid-air through component leads, on isolated parts of the copper-clad board, or using "tiles" consisting of square-shaped FR4 pieces with exposed copper. Since the circuit is constructed on top of a layer of copper, a low-impedance return path is automatically present.
+## Project motivation
+While there are a wide range of prototyping aids available, they are not always designed with regard to this method of prototyping. For examples, various DIP adapters are available, which break out SMD IC packages like SOIC, MSOP and QFN to pin headers with standard 100mil spacing. The adapters in this repository, while follwing a similar idea, are designed differently with decoupling and placement on a base copper-clad board in mind. 
+## List of boards:
+- SOIC/MSOP-8 adapter: Contains space for a SOIC-8 package on one side, and an MSOP-8 on the other. The trace patterns are optimised for supply decoupling either on pin 7 or 8. In the case of dual-supply op-amps, decoupling on each supply pin is also possible. This applies to both SOIC and MSOP. 
+- 4x Passive adapter: Traces are arranged in such a way as to fit passive components of size 1206 and below, series/parallel connections are possible.
+- SOT-23 adapter: Fits four SOT-23 packages. Since the top-center pin is usually used to dissipate power, its trace is larger than the other two pins. 
