@@ -11,3 +11,4 @@ While there are a wide range of prototyping aids available, they are not always 
 - SOT-23 adapter: Fits four SOT-23 packages. Since the top-center pin is usually used to dissipate power, its trace is larger than the other two pins. With some creativity in orientation and placement, other packages like SOT-89 and SOT-223 can be soldered (second picture). 
 ![SOT-23 adapter](https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23.png)
 ![SOT-32 adapter creative applications](https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23%20Creative.png)
+- SOIC/MSOP-20 adapter: For use with most common SOIC/MSOP footprints up to SOIC/MSOP-20.
