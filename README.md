@@ -43,7 +43,7 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 - TL431 Shunt regulator
 
 <p align="center">
-<img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Application%201.png" height=250>
+<img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Application%201.png" height=500>
 </p>
 
 ## Notes
