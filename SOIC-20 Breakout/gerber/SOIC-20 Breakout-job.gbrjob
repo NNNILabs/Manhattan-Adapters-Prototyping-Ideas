@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0)"
     },
-    "CreationDate": "2022-12-04T21:42:57+01:00"
+    "CreationDate": "2022-12-04T21:56:15+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Passive Breakout",
-      "GUID": "50617373-6976-4652-9042-7265616b6f75",
+      "Name": "SOIC-20 Breakout",
+      "GUID": "534f4943-2d32-4302-9042-7265616b6f75",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 15.594,
-      "Y": 10.514
+      "X": 23.214,
+      "Y": 28.294
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -33,47 +33,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Passive Breakout-F_Cu.gbr",
+      "Path": "SOIC-20 Breakout-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Passive Breakout-B_Cu.gbr",
+      "Path": "SOIC-20 Breakout-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Passive Breakout-F_Paste.gbr",
+      "Path": "SOIC-20 Breakout-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Passive Breakout-B_Paste.gbr",
+      "Path": "SOIC-20 Breakout-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Passive Breakout-F_Silkscreen.gbr",
+      "Path": "SOIC-20 Breakout-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Passive Breakout-B_Silkscreen.gbr",
+      "Path": "SOIC-20 Breakout-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Passive Breakout-F_Mask.gbr",
+      "Path": "SOIC-20 Breakout-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Passive Breakout-B_Mask.gbr",
+      "Path": "SOIC-20 Breakout-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Passive Breakout-Edge_Cuts.gbr",
+      "Path": "SOIC-20 Breakout-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
