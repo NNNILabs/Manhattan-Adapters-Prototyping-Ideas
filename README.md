@@ -52,4 +52,4 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 - Clearance between traces is 10 mils.
 ## Other links:
 - https://entertaininghacks.wordpress.com/2020/07/22/prototyping-circuits-easy-cheap-fast-reliable-techniques/
-
+  - http://hyse.org/pdf/www.aoc.nrao.edu/~pharden/hobby/HG-MANHAT2.pdf
