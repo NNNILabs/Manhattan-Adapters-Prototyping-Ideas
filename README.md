@@ -10,6 +10,7 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Usage.png" height=500>
 </p>
 
+(After writing this readme, I happened to come across [this](https://entertaininghacks.files.wordpress.com/2020/07/ps-manhattan04-1.jpg) picture from the Entertaining Hacks blog (link below), which shows a very similar setup. Looks like this idea is not so original after all!)
 ## List of boards:
 - SOIC/MSOP-8 adapter (18mm x 15.5mm): Contains space for a SOIC-8 package on one side, and an MSOP-8 on the other. The trace patterns are optimised for supply decoupling either on pin 7 or 8. In the case of dual-supply op-amps, decoupling on each supply pin is also possible. This applies to both SOIC and MSOP. Solder mask is left on some sections of the board to facilitate easier soldering and prevent unwanted shorts near fine-pitch traces. (Passive size in image: 0603)
 
@@ -43,9 +44,12 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 - TL431 Shunt regulator
 
 <p align="center">
-<img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Application%201.png" height=250>
+<img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Application%201.png" height=500>
 </p>
 
 ## Notes
 - These adapters were made specifically for use with 0603 passives, although passives up to 1206 will fit.
 - Clearance between traces is 10 mils.
+## Other links:
+- https://entertaininghacks.wordpress.com/2020/07/22/prototyping-circuits-easy-cheap-fast-reliable-techniques/
+  - http://hyse.org/pdf/www.aoc.nrao.edu/~pharden/hobby/HG-MANHAT2.pdf
