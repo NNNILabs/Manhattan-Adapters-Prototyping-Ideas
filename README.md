@@ -51,6 +51,7 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 - These adapters were made specifically for use with 0603 passives, although passives up to 1206 will fit.
 - Clearance between traces is 10 mils.
 ## Other links:
+- https://www.youtube.com/watch?v=vq968AFgPhg
 - https://www.analog.com/media/en/training-seminars/tutorials/MT-100.pdf
 - https://hackaday.com/2016/05/04/getting-ugly-dead-bugs-and-going-to-manhattan/
 - https://entertaininghacks.wordpress.com/2020/07/22/prototyping-circuits-easy-cheap-fast-reliable-techniques/
