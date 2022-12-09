@@ -34,7 +34,7 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23%20Creative.png" height=250>
 </p>
 
-- SOIC/MSOP-20 adapter: For use with most common SOIC/MSOP footprints up to SOIC/MSOP-20. (Passive size in image: 0603)
+- SOIC/MSOP-20 adapter: For use with most common SOIC/MSOP footprints up to SOIC-16/MSOP-20. (Passive size in image: 0603)
 
 <p align="center">
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOIC20%2BMSOP20.png" height=250>
