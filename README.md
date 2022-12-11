@@ -40,6 +40,12 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOIC20%2BMSOP20.png" height=250>
 </p>
 
+-LFCSP-8 adapter: I made this because the [ADA4528](https://github.com/macaba/Nuts#nsd) samples I got were in this weird package. (Passive size in image: 0603)
+
+<p align = "center">
+<img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/LFCSP-8.png" height=250>
+</p>
+
 ## Application Examples
 - TL431 Shunt regulator
 
