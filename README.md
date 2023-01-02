@@ -11,7 +11,7 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 </p>
 
 (After writing this readme, I happened to come across [this](https://entertaininghacks.files.wordpress.com/2020/07/ps-manhattan04-1.jpg) picture from the Entertaining Hacks blog (link below), which shows a very similar setup. Looks like this idea is not so original after all!)
-## List of Boards:
+## List of Boards
 - SOIC/MSOP-8 adapter: Contains space for a SOIC-8 package on one side, and an MSOP-8 on the other. Decoupling on each supply pin is also possible, and it is particularly easy for pins 1, 4, 5 and 8, since they have direct access to the center region. This applies to both SOIC and MSOP. The center region is intended to be soldered as directly as possible to the base board. (Passive size in image: 0603)
 
 <p align="center"> 
