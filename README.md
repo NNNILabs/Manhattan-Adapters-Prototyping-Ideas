@@ -46,6 +46,12 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/LFCSP-8.png" height=250>
 </p>
 
+- DIP-8 adapter: The LT1193s I have are in DIP.
+
+<p align = "center">
+<img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/DIP-8.PNG" height=250>
+</p>
+
 ## Application Examples
 - TL431 Shunt regulator
 
