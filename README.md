@@ -59,6 +59,8 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Application%201.png" height=500>
 </p>
 
+- REAL application examples from REAL people:
+  - GhostDog:
 ## Notes
 - These adapters were made specifically for use with 0603 passives, although passives up to 1206 will fit.
 - Clearance between traces is 10 mils.
