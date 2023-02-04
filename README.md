@@ -2,7 +2,7 @@
 ## Introduction
 Prototyping precision and high-speed analog circuits on breadboards, perfboard or stripboard is impractical and performance falls victim to parasitics. The Manhattan prototyping style is a possible solution, and involves "dead-bugging" components on copper-clad board and making connections using component leads and tinned or enamelled wire. Nodes are connected mid-air through component leads, on isolated parts of the copper-clad board, or using "tiles" consisting of square-shaped FR4 pieces with exposed copper. Since the circuit is constructed on top of a layer of copper, a low-impedance return path is automatically present.
 ## Project Motivation
-While there are a wide range of prototyping aids available, they are not always designed with regard to this method of prototyping. For example, various DIP adapters are available, which break out SMD IC packages like SOIC, MSOP and QFN to pin headers with standard 100mil spacing. The adapters in this repository, while follwing a similar idea, are designed differently with decoupling and placement on a base copper-clad board in mind. 
+While there are a wide range of prototyping aids available, they are not always designed with regard to this method of prototyping. For example, various DIP adapters are available, which break out SMD IC packages like SOIC, MSOP and QFN to pin headers with standard 100mil spacing. The adapters in this repository, while follwing a similar idea, are designed differently with decoupling and placement on a base copper-clad board in mind. The foundations of this project are based on [Mark's Manhattan Toolkit](https://github.com/macaba/TheManhattanToolkit).
 ## Usage
 Copper-clad board forms the base upon which the circuit is built. A board of suitable size is to be selected, and power strips cut out of spare board and fixed to the board in such a way that the adapter boards fit between them with space for making connections to ground. The adapters themselves are placed in between the power strips. Connections are to be made preferrably using enamelled copper wire, since accidental contact won't lead to unwanted connections. Having the power rails on the sides of the components is similar to the arrangement of connections on a solderless breadboard. 
 
@@ -59,10 +59,13 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Application%201.png" height=500>
 </p>
 
+- REAL application examples from REAL people:
+  - GhostDog:
 ## Notes
 - These adapters were made specifically for use with 0603 passives, although passives up to 1206 will fit.
 - Clearance between traces is 10 mils.
 ## Links
+- https://github.com/macaba/TheManhattanToolkit
 - https://www.youtube.com/watch?v=vq968AFgPhg
 - https://www.analog.com/media/en/training-seminars/tutorials/MT-100.pdf
 - https://hackaday.com/2016/05/04/getting-ugly-dead-bugs-and-going-to-manhattan/
