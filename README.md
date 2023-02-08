@@ -52,6 +52,12 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/DIP-8.PNG" height=250>
 </p>
 
+- Power strip: 7cm x 10cm FR4 copper-clad board turned out to be more expensive than I thought, so ordering cheap(er) power strips seemed like a resonable idea. Can be broken in half if needed.
+
+<p align = "center">
+<img src="" height=250>
+</p>
+
 ## Application Examples
 - TL431 Shunt regulator
 
