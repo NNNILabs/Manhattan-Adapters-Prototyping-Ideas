@@ -64,6 +64,12 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/SOT23-6.PNG" height=250>
 </p>
 
+- WSON-20:
+
+<p align = "center">
+<img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/WSON20.PNG" height=250>
+</p>
+
 ## Application Examples
 - TL431 Shunt regulator
 
