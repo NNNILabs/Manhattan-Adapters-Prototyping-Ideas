@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 39,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -68,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "WQFN to SOIC.kicad_prl",
+    "filename": "WSON to SOIC.kicad_prl",
     "version": 3
   },
   "project": {
