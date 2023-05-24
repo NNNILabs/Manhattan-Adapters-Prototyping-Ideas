@@ -58,6 +58,12 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Power%20Strip.PNG" height=250>
 </p>
 
+- STO-23-6: The existing SOT-23 adapter cannot handle SOT-23-6 and SOT-23-5 packages easily. 
+
+<p align = "center">
+<img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Power%20Strip.PNG" height=250>
+</p>
+
 ## Application Examples
 - TL431 Shunt regulator
 
