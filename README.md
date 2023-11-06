@@ -7,7 +7,7 @@ While there are a wide range of prototyping aids available, they are not always 
 Copper-clad board forms the base upon which the circuit is built. A board of suitable size is to be selected, and power strips cut out of spare board and fixed to the board in such a way that the adapter boards fit between them with space for making connections to ground. The adapters themselves are placed in between the power strips. Connections are to be made preferrably using enamelled copper wire, since accidental contact won't lead to unwanted connections. Having the power rails on the sides of the components is similar to the arrangement of connections on a solderless breadboard. 
 
 <p align="center">
-<img src="https://github.com/NNNIIndia/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/Usage.png" height=500>
+<img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/20230824_032857.jpg" height=500>
 </p>
 
 (After writing this readme, I happened to come across [this](https://entertaininghacks.files.wordpress.com/2020/07/ps-manhattan04-1.jpg) picture from the Entertaining Hacks blog (link below), which shows a very similar setup. Looks like this idea is not so original after all!)
