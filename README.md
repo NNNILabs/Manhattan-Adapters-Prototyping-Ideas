@@ -82,6 +82,9 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
   ![](https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/ghostdog.png)
   - Me: (LM317 regulator, 555 oscillator, 74AC04/source follower current pulser)
   ![](https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/20230331_200238.jpg)
+  - NoahBad: (LM311 based bandgap reference)
+    Although this examples does not use the adapters, it's a good example of Manhattan-style prototyping.
+  ![](https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/IMG_1879.jpg)
 ## Notes
 - These adapters were made specifically for use with 0603 passives, although passives up to 1206 will fit.
 - Clearance between traces is 10 mils.
