@@ -12,7 +12,7 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 
 (After writing this readme, I happened to come across [this](https://entertaininghacks.files.wordpress.com/2020/07/ps-manhattan04-1.jpg) picture from the Entertaining Hacks blog (link below), which shows a very similar setup. Looks like this idea is not so original after all!)
 
-(Dimin)[https://github.com/diminDDL] created a panel of all the adapter boards that's 100mm x 100mm, making it easy to order cheaply:
+[Dimin](https://github.com/diminDDL) created a panel of all the adapter boards that's 100mm x 100mm, making it easy to order cheaply:
 
 <p align="center">
 <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/panel.png" height=500>
