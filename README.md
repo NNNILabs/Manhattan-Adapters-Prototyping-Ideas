@@ -87,16 +87,16 @@ Copper-clad board forms the base upon which the circuit is built. A board of sui
 - REAL application examples from REAL people:
   - GhostDog: (unknown circuit)
   <p align = "center">
-  <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/ghostdog.png" height=250>
+  <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/ghostdog.png" height=500>
   </p>
   - Me: (LM317 regulator, 555 oscillator, 74AC04/source follower current pulser)
   <p align = "center">
-  <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/20230331_200238.jpg" height=250>
+  <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/20230331_200238.jpg" height=500>
   </p>
   - NoahBad: (LM311 based bandgap reference)
     Although this examples does not use the adapters, it's a good example of Manhattan-style prototyping.
   <p align = "center">
-  <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/IMG_1879.jpg" height=250>
+  <img src="https://github.com/NNNILabs/Manhattan-Adapters-Prototyping-Ideas/blob/main/Resources/IMG_1879.jpg" height=500>
   </p>
 ## Notes
 - These adapters were made specifically for use with 0603 passives, although passives up to 1206 will fit.
